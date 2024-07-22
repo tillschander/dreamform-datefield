@@ -1,0 +1,11 @@
+{
+  "name": "watnweb/datefield",
+  "description": "Date field for the DreamForm plugin for Kirby CMS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Till Schander",
+      "homepage": "https://watnweb.de"
+    }
+  ]
+}
